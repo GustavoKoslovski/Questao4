@@ -55,7 +55,7 @@ li {
 
 .imgBack{
     filter: blur(2px);
-    height: 600px;
+    height: 720px;
     width: 100%;
 }
 
@@ -76,20 +76,19 @@ li {
 }
 
 .cabeçalho2{
+    position: relative;
+    top: 120px;
     background-color: rgba(0, 0, 0, 0.459);
     height: 300px;
     width: 100%;
     border-bottom: solid rgba(0, 0, 0, 0.651);
     border-top: solid rgba(0, 0, 0, 0.651);
-
 }
 
 .copy{
-
     text-align: center;
     position: relative;
     top: 90px;
-    
 }
 
 a{
